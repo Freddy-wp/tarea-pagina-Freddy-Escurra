@@ -1,0 +1,32 @@
+body{
+	background: #CDCCCC;
+}
+h1{
+	text-align: center;
+}
+div{
+	margin-left: 20px;
+	padding: 1% 2%;
+	background: grey;
+	color: white;
+}
+header{
+	margin-left: 250px;
+	display: inline-flex;
+	text-align: justify;
+	margin-right: 150px;
+	
+}
+h2{
+	text-align: center;
+	text-shadow: 0px 0px 12px;
+	color: #9C8E8E; 
+}
+img{
+	height: 150px;
+	width: 230px;
+	margin-right: 50px;
+}
+p{
+	text-align: justify;
+}
